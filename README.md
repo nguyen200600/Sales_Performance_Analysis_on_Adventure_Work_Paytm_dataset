@@ -3,8 +3,8 @@ Paytm is an Indian multinational financial technology company. It specializes in
 
 Below is a small database of payment transactions from 2019 to 2020 of Paytm Wallet. The database includes 6 tables:
 
-*fact_transaction: Store information of all types of transactions: Payments, Top-up, Transfers, Withdrawals
-*dim_scenario: Detailed description of transaction types
-*dim_payment_channel: Detailed description of payment methods
-*dim_platform: Detailed description of payment devices
-*dim_status: Detailed description of the results of the transaction
+* fact_transaction: Store information of all types of transactions: Payments, Top-up, Transfers, Withdrawals
+* dim_scenario: Detailed description of transaction types
+* dim_payment_channel: Detailed description of payment methods
+* dim_platform: Detailed description of payment devices
+* dim_status: Detailed description of the results of the transaction
